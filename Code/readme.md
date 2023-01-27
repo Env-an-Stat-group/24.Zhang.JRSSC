@@ -1,0 +1,1 @@
+Code for generating posterior distribution results for hyperparameters. Please put all files on CRC and use "qsub taucs_test_posterior.sh' to submit the job. Results would be stored in RData style.
